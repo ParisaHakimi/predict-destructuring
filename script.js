@@ -46,7 +46,7 @@ const lastTest = {
 const { key } = lastTest;
 const { secondKey } = lastTest;
 const [, willThisWork] = secondKey;
-//Predict the output (value,[1,5,1,8,3,3],1 ,5)
+//Predict the  output (value,[1,5,1,8,3,3],1 ,5)
 console.log(key);
 console.log(secondKey);
 console.log(secondKey[0]);
